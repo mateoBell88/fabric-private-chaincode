@@ -144,6 +144,6 @@ require (
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	gotest.tools/v3 v3.5.1 // indirect
+	gotest.tools/v3 v3.5.2 // indirect
 	rsc.io/tmplfunc v0.0.3 // indirect
 )
